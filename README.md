@@ -1,5 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working with Mobile Flutter apps
+- 📫 How to reach me: 
 
+e-mail: brunocaramalach@gmail.com
+
+instagram: @brunocaramalach
+
+telegram: @brunocaramalach
 <!--
 **brunocaramalach/brunocaramalach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
